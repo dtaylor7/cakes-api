@@ -1,0 +1,10 @@
+{
+  "ids": {
+    "Cakes": 2
+  },
+  "models": {
+    "Cakes": {
+      "1": "{\"name\":\"The Rainbow\",\"imageUrl\":\"https://storcpdkenticomedia.blob.core.windows.net/media/recipemanagementsystem/media/recipe-media-files/recipes/retail/desktopimages/rainbow-cake600x600_2.jpg?ext=.jpg\",\"id\":1}"
+    }
+  }
+}
