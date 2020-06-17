@@ -29,6 +29,10 @@ export class Cakes extends Entity {
   @property({
     type: 'number',
     required: true,
+    jsonSchema: {
+      minimum: 1,
+      maximum: 5
+    }
   })
   yumFactor: number;
 
