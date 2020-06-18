@@ -1,10 +1,11 @@
 {
   "ids": {
-    "Cakes": 2
+    "Cakes": 3
   },
   "models": {
     "Cakes": {
-      "1": "{\"name\":\"The Rainbow\",\"imageUrl\":\"https://storcpdkenticomedia.blob.core.windows.net/media/recipemanagementsystem/media/recipe-media-files/recipes/retail/desktopimages/rainbow-cake600x600_2.jpg?ext=.jpg\",\"id\":1}"
+      "1": "{\"id\":1,\"name\":\"The Rainbow\",\"comment\":\"test\",\"imageUrl\":\"https://storcpdkenticomedia.blob.core.windows.net/media/recipemanagementsystem/media/recipe-media-files/recipes/retail/desktopimages/rainbow-cake600x600_2.jpg?ext=.jpg\",\"yumFactor\":3}",
+      "2": "{\"id\":2,\"name\":\"Choccy Supreme\",\"comment\":\"Some comment\",\"imageUrl\":\"https://keyassets-p2.timeincuk.net/wp/prod/wp-content/uploads/sites/53/2019/07/pick-and-mix-choc-cake.jpg\",\"yumFactor\":3}",
     }
   }
 }
